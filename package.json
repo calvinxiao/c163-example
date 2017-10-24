@@ -1,0 +1,19 @@
+{
+  "name": "c163-example",
+  "version": "1.0.0",
+  "description": "Node.js code example deployed on c.163.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calvinxiao/c163-example.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calvinxiao/c163-example/issues"
+  },
+  "homepage": "https://github.com/calvinxiao/c163-example#readme"
+}
