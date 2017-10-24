@@ -4,7 +4,7 @@
 
 ## 第一章，Hello world
 
-> github: [https://github.com/calvinxiao/c163-example](https://github.com/calvinxiao/c163-example)
+> github: [https://github.com/calvinxiao/c163-example](https://github.com/calvinxiao/c163-example) `tag: helloworld`
 
 ### 第一步，创建`app.js`文件
 
